@@ -69,7 +69,7 @@ Finally, to seed the database with sample data, run:
     
 ## Mock-Up
 
-
+https://prnt.sc/124c7t3
 
 ## Video-Link
 
