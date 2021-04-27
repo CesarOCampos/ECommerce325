@@ -47,11 +47,19 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Installation Instructions
 
-```npm i```
+To install necessary dependencies, run the following command:
+
+```npm i``` 
+
+This app comes with a .env file which you should edit to reflect your personal/local database credentials and save. 
+Then, to recreate the sample database on your local instance of mysql, run ./db/schema.sql which will create the necessary ecommerce_db in mysql for you. 
+Finally, to seed the database with sample data, run:
+
+```node seeds/index.js``` 
 
 ## Test Instructions
 
-    * npm test
+```node server``` 
 
 ## Usage Information
     * information to be known by user when using the repo
