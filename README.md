@@ -69,7 +69,7 @@ Finally, to seed the database with sample data, run:
     
 ## Mock-Up
 
-  (https://prnt.sc/124c7t3)
+ ![image](https://user-images.githubusercontent.com/40922162/116176791-60ac8d80-a6d8-11eb-9e57-17698894a28e.png)
 
 ## Video-Link
 
