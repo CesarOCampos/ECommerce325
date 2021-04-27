@@ -48,6 +48,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Installation Instructions
 
 To install necessary dependencies, run the following command:
+
     * npm i
 
 This app comes with a .env file which you should edit to reflect your personal/local database credentials and save. 
